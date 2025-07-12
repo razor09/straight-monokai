@@ -1,0 +1,23 @@
+[
+  {
+    "identifier": {
+      "id": "vscode.straight-monokai"
+    },
+    "version": "1.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/razor/.vscode/extensions/straight-monokai",
+      "scheme": "file"
+    },
+    "relativeLocation": "straight-monokai"
+  }
+]
+
+// esbenp.prettier-vscode
+// mrmlnc.vscode-scss
+// styled-components.vscode-styled-components
+// clinyong.vscode-css-modules
+// pkief.material-icon-theme
+// golang.go
+// rust-lang.rust-analyzer
+// angular.ng-template
