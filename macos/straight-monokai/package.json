@@ -1,0 +1,20 @@
+{
+	"name": "straight-monokai",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "StraightMonokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/straight-monokai-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 23582
+	}
+}
